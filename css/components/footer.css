@@ -1,0 +1,20 @@
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+  list-style: none;
+  padding-left: 0px;
+  margin-top: 10px;
+}
+
+.fab{
+  color: red;
+  size: 100px;
+}
+
+.footer{
+  background-color: rgba(128, 128, 128, 0.452);
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 30px;
+  margin-top: 50px;
+}
